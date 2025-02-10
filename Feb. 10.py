@@ -1,0 +1,5 @@
+print("Hi Sofia")
+print("I wanna go bald") 
+print("premature blading is okay") 
+print("Did you know that when you know you know that you know you know") 
+print("I know how to do this thing guys") 
